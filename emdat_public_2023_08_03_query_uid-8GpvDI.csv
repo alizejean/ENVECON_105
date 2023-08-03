@@ -1,9 +1,3 @@
-﻿Source:,"EM-DAT, CRED / UCLouvain, Brussels, Belgium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,www.emdat.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Version:,2023-08-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-File creation:,"Thu, 03 Aug 2023 19:56:49 CEST",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Table type:,Custom request,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-# of records:,191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dis No,Year,Seq,Glide,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Disaster Subsubtype,Event Name,Country,ISO,Region,Continent,Location,Origin,Associated Dis,Associated Dis2,OFDA Response,Appeal,Declaration,AID Contribution ('000 US$),Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Local Time,River Basin,Start Year,Start Month,Start Day,End Year,End Month,End Day,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,Reconstruction Costs ('000 US$),"Reconstruction Costs, Adjusted ('000 US$)",Insured Damages ('000 US$),"Insured Damages, Adjusted ('000 US$)",Total Damages ('000 US$),"Total Damages, Adjusted ('000 US$)",CPI,Adm Level,Admin1 Code,Admin2 Code,Geo Locations
 1958-0039-FRA,1958,0039,,Natural,Hydrological,Flood,Riverine flood,,,France,FRA,Western Europe,Europe,"Gard, Hérault",,,,,No,No,,,Km2,,,,,1958,9,30,1958,10,4,35,,,,,,,,,,,9.860877819,,,,
 1961-0058-FRA,1961,0058,,Natural,Hydrological,Landslide,,,,France,FRA,Western Europe,Europe,Clamart (Hauts-de-Seine),,,,,No,No,,,,,,,,1961,6,1,1961,6,1,21,,,,,,,,,,,10.21396373,2,,16279,Hauts-de-Seine (Adm2).
